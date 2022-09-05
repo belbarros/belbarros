@@ -1,1 +1,1 @@
-![Bel's GitHub stats](https://github-readme-stats.vercel.app/api?username=belbarros&show_icons=true&theme=dracula)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belbarros&langs_count=10&theme=tokyonight&layout=compact" alt="belbarros :: Top Langs" /></p>
