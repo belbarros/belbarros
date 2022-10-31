@@ -20,9 +20,6 @@ const bel = {
 
 <h4>Let's connect!</h4>
 <p>
-  <a href="https://www.behance.net/belbarros">
-  <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
     <a href="https://www.linkedin.com/in/belbarros/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
