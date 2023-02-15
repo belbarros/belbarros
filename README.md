@@ -10,11 +10,11 @@ const bel = {
    city: "Florianópolis, Brazil",
    languages: ["Portuguese", "English"],
    code: [Javascript, HTML, CSS],
-   tools: [React, Redux, Jest],
-   toLearn: ["back-end", "computer science"],
-   currentOccupation: "just finished the front-end module and doing personal projects to challenge myself and learn new things",
+   tools: [React, Redux, Jest, Express.js, Node.js, MySQL, Sequelize, MongoDB, Mongoose],
+   toLearn: ["computer science"],
+   currentOccupation: "learning Python! 🐍",
    hobbies: ["reading", "videogames"],
-   challenge: "I'm trying to read 50 books this year!",
+   challenge: "I'm doing the not-so-berry challenge on The Sims 4!",
 };
 ```
 
