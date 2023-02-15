@@ -14,7 +14,7 @@ const bel = {
    toLearn: ["computer science"],
    currentOccupation: "learning Python! 🐍",
    hobbies: ["reading", "videogames"],
-   challenge: "I'm doing the <a href="https://lilsimsie.tumblr.com/post/157671494755/not-so-berry-legacy-challenge">not-so-berry challenge</a> on The Sims 4!",
+   challenge: "I'm doing the not-so-berry challenge on The Sims 4!",
 };
 ```
 
