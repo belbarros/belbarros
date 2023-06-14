@@ -1,6 +1,5 @@
 <h2>Hi, I'm Bel Barros!</h2>
-<p>Front-end Developer at Jr. level and a graphic designer graduated at <a href="https://ufsc.br/">University of Santa Catarina</a>. <br />
-  Currently a fullstack web developer student at <a href="https://github.com/betrybe">Trybe</a> 💚</p>
+<p>Front-end Developer at Jr. level and a graphic designer graduated at <a href="https://ufsc.br/">University of Santa Catarina</a>.</p>
 
 <h3>More about me</h3>
 
@@ -11,8 +10,7 @@ const bel = {
    languages: ["Portuguese", "English"],
    code: ["Javascript", "HTML", "CSS"],
    tools: ["React", "Redux", "Jest", "Express.js", "Node.js", "MySQL", "Sequelize", "MongoDB", "Mongoose"],
-   toLearn: ["computer science"],
-   currentOccupation: "learning Python! 🐍",
+   currentOccupation: "studying React!",
    hobbies: ["reading", "videogames"],
 };
 ```
