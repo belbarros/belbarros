@@ -1,5 +1,5 @@
 <h2>Hi, I'm Bel Barros!</h2>
-<p>Front-end Developer at Jr. level and a graphic designer graduated at <a href="https://ufsc.br/">University of Santa Catarina</a>.</p>
+<p>Data Engineer on the making and a graphic designer graduated at <a href="https://ufsc.br/">University of Santa Catarina</a>.</p>
 
 <h3>More about me</h3>
 
@@ -8,9 +8,9 @@ const bel = {
    pronouns: ["she", "her"],
    city: "Florianópolis, Brazil",
    languages: ["Portuguese", "English"],
-   code: ["Javascript", "HTML", "CSS"],
+   code: ["Python", "Javascript", "HTML", "CSS"],
    tools: ["React", "Redux", "Jest", "Express.js", "Node.js", "MySQL", "Sequelize", "MongoDB", "Mongoose"],
-   currentOccupation: "studying React!",
+   currentOccupation: "studying genAI and LLMS!",
    hobbies: ["reading", "videogames"],
 };
 ```
